@@ -23,7 +23,7 @@ To install fitFarm, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yatunyi15075/fitFarm_Mobile_App.git
+   git clone https://github.com/yatunyi15075/fitFarm_App.git
 
 
 1. Navigate to the project directory:
